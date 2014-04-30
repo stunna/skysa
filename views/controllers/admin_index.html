@@ -1,0 +1,26 @@
+{form name="skysa_settings"}
+	<table class="ow_table_1 ow_form">
+	    <tr>
+	        <th class="ow_name ow_txtleft" colspan="3">
+	            <span class="ow_section_icon ow_ic_gear_wheel">{text key="skysa+admin_settings_section_label"}</span>
+	        </th>
+	    </tr>
+	    
+	    <tr class="{cycle values='ow_alt1, ow_alt2'}">
+            <td class="ow_label">
+	    		{text key="skysa+admin_settings_bar_id_label"}
+	    	</td>
+            <td class="ow_value">
+	    		{input name='bar_id'}<br />
+	    		{error name='bar_id'}
+	    	</td>
+            <td class="ow_desc">{text key="skysa+admin_settings_bar_id_desc"}</td>
+	    </tr>
+	    
+	    <tr>
+	    	<td colspan="3" class="ow_center">
+	    		{submit name="submit" class="ow_ic_save"}
+	    	</td>
+	    </tr>
+	</table>
+{/form}

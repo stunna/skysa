@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin>
+	<name>Skysa</name>
+	<key>skysa</key>
+	<description>With Skysa you can centrally locate many of your sites features, sharing links, and applications in one persistent floating toolbar that is easily accessible by your website visitors and members. Skysa helps you by cleaning up the clutter of apps within your websites pages.  You can register over my ref link if you like http://www.skysabar.com/oxwall</description>
+    <author>Honsa</author>
+    <authorEmail>oxwall@gibts.ch</authorEmail>
+	<authorUrl>http://oxwall.gibts.ch</authorUrl>
+	<developerKey>dbe9abdd4300b7443efd77f15890b0b5</developerKey>
+    <build>6067</build>
+    <copyright>(C) 2012</copyright>
+	<license>The BSD License</license>
+    <licenseUrl>http://www.opensource.org/licenses/bsd-license.php</licenseUrl>
+</plugin>
